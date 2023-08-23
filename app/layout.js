@@ -1,4 +1,5 @@
 import './globals.css'
+// head 태그용, 상단바 등
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
